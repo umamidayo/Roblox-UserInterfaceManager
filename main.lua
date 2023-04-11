@@ -1,4 +1,4 @@
--- Anything that's obvious to highly skilled scripters will not be commented, as it's expected to know what a service or variable does; based on their names
+-- Anything that's obvious to intermediate scripters will not be commented, as it's expected to know what a service or variable does; based on their names
 -- This is a client-sided script that handles events sent by the server, as well as connecting any player data changes to the user interface.
 
 -- Forcing the script to wait until the client is ready
