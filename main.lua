@@ -308,6 +308,3 @@ Remotes.Mission.OnClientEvent:Connect(function(EventType:string, NewMissionData)
 		MissionFrame.Visible = false
 	end
 end)
-
--- If you need more comments from me to prove that I made this code and understand it, then you're being ridiculous.
--- It shouldn't be confusing to understand how client user interface scripts work.
